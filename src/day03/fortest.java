@@ -15,13 +15,13 @@ package day03;
 public class fortest {
     public static void main(String[] args) {
         int i = 0;
-        while (i < 5){
-            System.out.println("while的输出：" + i );
+        while (i < 5) {
+            System.out.println("while的输出：" + i);
             i++;
         }
         for (i = 0; i < 5; i++
         ) {
-            System.out.println("for的输出是：" + i );
+            System.out.println("for的输出是：" + i);
         }
     }
 }
