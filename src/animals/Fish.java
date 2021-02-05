@@ -7,12 +7,11 @@
 package animals;
 
 /**
- * Function: 
- *
+ * Function:
  * @author 云铮
  * @date 2021/1/31
  */
-public class Fish extends Animal implements pet{
+public class Fish extends Animal implements pet {
     private String name;
 
     @Override
